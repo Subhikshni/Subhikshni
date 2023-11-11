@@ -33,5 +33,3 @@ I am actively seeking opportunities to apply my skills and passion for literatur
 Feel free to explore my repositories and get in touch. Let's create something exceptional together!
 
 ---
-
-Customize the placeholders, such as [Your Name], [your.email@example.com], and [Your LinkedIn Profile], to match your details. Additionally, you can add specific project links or GitHub repositories that showcase your writing or leadership skills. This README serves as a dynamic introduction that can evolve as you add more projects and experiences to your GitHub profile.
