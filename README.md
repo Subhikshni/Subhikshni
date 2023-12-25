@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [SUBHIKSHNI]
+# Hi there! 👋 I'm SUBHIKSHNI
 
 Welcome to my GitHub profile! I'm a passionate reader, prolific writer, and enthusiastic leader in content creation. With a strong background in literature and writing, I bring a unique blend of creativity, critical thinking, and leadership to every project I undertake.
 
